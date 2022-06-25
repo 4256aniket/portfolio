@@ -105,13 +105,13 @@ section:nth-child(2n+1) {
     background-color: white;
 }
 
-.section-heading{
+.section-heading {
     width: auto;
     padding: 20px 10px 10px;
     font-weight: 400;
 }
 
-.section-heading span{
+.section-heading span {
     font-size: 40px;
     color: #2857a4;
     display: inline-block;
@@ -119,7 +119,7 @@ section:nth-child(2n+1) {
     margin-right: 0.5rem;
 }
 
-.skills-display{
+.skills-display {
     width: 70%;
     display: flex;
     flex-wrap: wrap;
@@ -138,18 +138,18 @@ section:nth-child(2n+1) {
     overflow: hidden;
 }
 
-.skill-progress>div{
+.skill-progress>div {
     border-radius: 20px 0px 0px 20px;
 }
 
-.skill-name span{
+.skill-name span {
     color: white;
     font-size: 1rem;
     margin-left: 10px;
 
 }
 
-.mb75px{
+.mb75px {
     margin-bottom: 75px;
 }
 
@@ -166,30 +166,30 @@ section:nth-child(2n+1) {
     font-size: 1.3rem;
 }
 
-.eighty-five-percent{
+.eighty-five-percent {
     width: 85%;
     height: inherit;
 }
 
-.seventy-percent{
+.seventy-percent {
     width: 70%;
     height: inherit;
 }
 
 
-.mb-blue{
+.mb-blue {
     background-color: #2857a4;
 }
 
-.mb-blueviolet{
+.mb-blueviolet {
     background-color: blueviolet;
 }
 
-.mb-green{
+.mb-green {
     background-color: green;
 }
 
-.mb-orangered{
+.mb-orangered {
     background-color: orangered;
 }
 
@@ -364,5 +364,3 @@ button:focus {
 .mb50px {
     margin-bottom: 50px;
 }
-
-
