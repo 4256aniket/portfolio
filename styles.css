@@ -97,13 +97,13 @@ section {
     align-items: center;
 }
 
-section:nth-child(2n) {
+/* section:nth-child(2n) {
     background-color: lightgray;
 }
 
 section:nth-child(2n+1) {
     background-color: white;
-}
+} */
 
 .section-heading{
     width: auto;
@@ -129,10 +129,11 @@ section:nth-child(2n+1) {
 
 .skill-progress{
     width: 7rem;
-    height: 1.2rem;
-    background-color: lightgray;
+    height: 1.5rem;
+    background-color: gray;
     border-radius: 0.8rem;
-    border: 2px solid ;
+    margin-bottom: 50px;
+    font-size: 20px;
 }
 
 .skill-progress>div{
@@ -168,7 +169,24 @@ section:nth-child(2n+1) {
     height: inherit;
 }
 
+.seventy-percent{
+    width: 70%;
+    height: inherit;
+}
+
 
 .mb-blue{
     background-color: #2857a4;
+}
+
+.mb-yellowgreen{
+    background-color: blueviolet;
+}
+
+.mb-green{
+    background-color: green;
+}
+
+.mb-orange{
+    background-color: orangered;
 }
