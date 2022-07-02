@@ -525,3 +525,8 @@ button:focus {
     height: inherit;
     width: 50%;
 }
+
+.ninety-percent{
+    height: inherit;
+    width: 90%;
+}
